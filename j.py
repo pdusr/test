@@ -4,5 +4,3 @@ if qc>0:
 	print("hdh", qc)
 else:
 	print("hsj", qc)
-
-hello
